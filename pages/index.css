@@ -109,7 +109,6 @@
   display: flex;
   justify-content: center;
   gap: 40px;
-  margin: 0 auto;
 }
 .recipes__iframe {
   width: 480px;
