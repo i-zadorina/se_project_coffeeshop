@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Add nav\_\_link "About" to the header.
+- Add smooth transition to "pulsate" animation.
