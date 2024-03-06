@@ -58,28 +58,3 @@
   font-weight: 500;
   z-index: 2;
 }
-.nav {
-  display: flex;
-  justify-content: space-between;
-}
-.nav__logo {
-  height: 39px;
-  width: 105px;
-  margin: 0 0 183px -50px;
-}
-.nav__links {
-  display: flex;
-  list-style-type: none;
-  gap: 20px;
-  padding: 0;
-  margin: 0;
-}
-.nav__link {
-  color: #000000;
-  text-decoration: none;
-  font-weight: bold;
-  transition: color 0.5s;
-}
-.nav__link:hover {
-  color: #2f80ed;
-}
